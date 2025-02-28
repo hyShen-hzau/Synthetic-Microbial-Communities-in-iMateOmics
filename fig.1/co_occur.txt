@@ -1,0 +1,21 @@
+Acetobacter
+Escherichia-Shigella
+Lactobacillus
+Leuconostoc
+Pediococcus
+Prevotella 7
+Providencia
+Weissella
+Alternaria
+Aspergillus
+Candida
+Cyberlindnera
+Diaporthe
+Fusarium
+Gibberella
+Kazachstania
+Kluyveromyces
+Mycosphaerella
+Nakaseomyces
+Pichia
+Wickerhamomyces

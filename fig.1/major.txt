@@ -1,0 +1,48 @@
+Acetobacter
+Acidovorax
+Alloprevotella
+Bacillus
+Capnocytophaga
+Clostridium sensu stricto 1
+Clostridium sensu stricto 12
+Enterobacter
+Escherichia-Shigella
+Gemella
+Haemophilus
+Lachnoclostridium 5
+Lactobacillus
+Leuconostoc
+Neisseria
+Pediococcus
+Porphyromonas
+Prevotella
+Prevotella 7
+Providencia
+Streptococcus
+Weissella
+Alternaria
+Aspergillus
+Botryosphaeria
+Candida
+Cladosporium
+Colletotrichum
+Cyberlindnera
+Diaporthe
+Fusarium
+Gibberella
+Hyphopichia
+Kazachstania
+Kluyveromyces
+Mycosphaerella
+Nakaseomyces
+Penicillium
+Pichia
+Saccharomyces
+Talaromyces
+Trichoderma
+unclassified Diaporthales
+unclassified Fungi
+unclassified Nectriaceae
+unclassified Saccharomycetales
+unidentified
+Wickerhamomyces
